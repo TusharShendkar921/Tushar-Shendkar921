@@ -1,6 +1,6 @@
-<div align="center">
-![Coding Wallpaper 4K For Mobile Trick](https://github.com/user-attachments/assets/0ba4b2b3-407b-41ea-8f17-a04049a92c8c)
-</div>
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Tushar Shendkar- Software Developer Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Tushar Shendkar</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
