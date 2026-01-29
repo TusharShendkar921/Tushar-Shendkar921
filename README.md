@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tusharshendkar41@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/home](https://drive.google.com/drive/home)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I love sports, trekking, and exploring new places**
 
